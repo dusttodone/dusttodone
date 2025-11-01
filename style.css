@@ -96,6 +96,12 @@ section {
     text-decoration: none;
 }
 
+/* ADDED THIS RULE */
+.nav-logo img {
+    max-height: 40px; /* Adjust this value as needed */
+    display: block;
+}
+
 .nav-links a {
     margin-left: 25px;
     text-decoration: none;
